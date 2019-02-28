@@ -25,6 +25,11 @@ UNITY projekt naleznete na: https://github.com/radakuceru/TFTSPSSE-SOURCE
 Hra byla původně v úplně jiné kvalitě, ale kvůli velikosti a optimalizaci jsme museli zhoršit kvalitu na 720p.
 Veškeré použité materiály jsou naše (kromě jedné hudby bez copyrightu, a dvou ikon, které jsou free to use).
 
-## Nápověda pro jednorožce:
+## 3 artefakty:
+
+**Pizza:** při stisknutí ESC
+**Záchod:** ve videu pro další epizodu
+**Jednorožec:** při stisknutí neznámého tlačítka v neznámé lokaci
+##### Nápověda pro jednorožce:
 
 Neklikejte myší ale písmenem až budete dotázáni.
