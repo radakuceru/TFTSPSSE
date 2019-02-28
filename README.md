@@ -28,8 +28,11 @@ Veškeré použité materiály jsou naše (kromě jedné hudby bez copyrightu, a
 ## 3 artefakty:
 
 **Pizza:** při stisknutí ESC
+
 **Záchod:** ve videu pro další epizodu
+
 **Jednorožec:** při stisknutí neznámého tlačítka v neznámé lokaci
+
 ##### Nápověda pro jednorožce:
 
 Neklikejte myší ale písmenem až budete dotázáni.
