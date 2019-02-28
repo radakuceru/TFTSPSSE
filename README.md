@@ -20,3 +20,11 @@ UNITY soubor naleznete na: https://github.com/radakuceru/TFTSPSSE-SOURCE
 
 **Rozlišení:** 1920x1080
 
+## Připomínky:
+
+Hra byla původně v úplně jiné kvalitě, ale kvůli velikosti a optimalizaci jsme museli zhoršit kvalitu na 720p.
+Veškeré použité materiály jsou naše (kromě jedné hudby bez copyrightu, a dvou ikon, které jsou free to use).
+
+## Nápověda pro jednorožce:
+
+Neklikejte myší ale písmenem až budete dotázáni.
