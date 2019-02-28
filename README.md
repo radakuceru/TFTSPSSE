@@ -1,7 +1,7 @@
 # TALES FROM THE SPŠSE
 
 
-UNITY soubor naleznete na: https://github.com/radakuceru/TFTSPSSE-SOURCE
+UNITY projekt naleznete na: https://github.com/radakuceru/TFTSPSSE-SOURCE
 
 ## Ovládání:
 
